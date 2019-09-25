@@ -72,7 +72,7 @@ curl -X GET "https://shradha1234.herokuapp.com/bankname/city?bankname={bankname}
 
 **EXAMPLE** :
 ```
-curl -X GET "https://shradha1234.herokuapp.com/bankname/city?bankname=STATE%20BANK%20OF%20INDIA&city=DUMKA&offset=0&limit=2" -d "{\"username\":\"sid\",\"password\": \"123456789\"}" -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzaWQiLCJpYXQiOjE1Njk0MDY3MDQsImV4cCI6MjAwMTQwNjcwNH0.Y6aqcc2rhFQU5bSWmB2Bz1KDlvBB9b0oz8Kj-0MFPQ_WGbtc68ZutelA_2wp8taVe5iN4QxbWgrBhxH8uQvlbw"
+curl -X GET "https://shradha1234.herokuapp.com/bankname/city?bankname=ALLAHABAD%20BANK&city=HARDOI&offset=0&limit=2" -d "{\"username\":\"sid\",\"password\": \"123456789\"}" -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzaWQiLCJpYXQiOjE1Njk0MDY3MDQsImV4cCI6MjAwMTQwNjcwNH0.Y6aqcc2rhFQU5bSWmB2Bz1KDlvBB9b0oz8Kj-0MFPQ_WGbtc68ZutelA_2wp8taVe5iN4QxbWgrBhxH8uQvlbw""
 ```
 
 **NOTE**
