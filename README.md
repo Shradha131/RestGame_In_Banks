@@ -166,7 +166,7 @@ curl -X GET https://shradha1234.herokuapp.com/api/test/user -d "{\"username\":\"
 
 **4. GET API to fetch all details of branches, given bank name and a city**
 
-![screenshot](./images/bankname_city.JPG)
+![screenshot](./images/bankCity.JPG)
 
 
 
