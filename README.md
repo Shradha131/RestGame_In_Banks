@@ -19,6 +19,7 @@ PostgreSQL is used as backend Database.This application is hosted on heroku at h
 Project is created with:
 * Java
 * Spring Boot
+* Java Web Token (JWT)
 * Postgresql Database
 * Heroku
 * REST APIs
