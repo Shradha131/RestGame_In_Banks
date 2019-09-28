@@ -10,8 +10,8 @@ This is a demo application based on REST services which is used to fetch bank de
 
 ## General info
 This project includes REST APIs to register a new user (SignUp), Signin a user and fetching details based on its role. 
-The purpose of this project is to show how to make simple calls using GET/POST REST APIs with limit & offset parameters and host it on Heroku.
-PostgreSQL is used as backend Database.This application is hosted on heroku at https://shradha1234.herokuapp.com	
+The purpose of this project is to show how to make simple calls using GET/POST REST APIs with limit & offset parameters. 
+PostgreSQL is used as backend Database. This application is hosted on heroku at https://shradha1234.herokuapp.com	
 
 **NOTE**: The data available in this [repository](https://github.com/snarayanank2/indian_banks) is used as backend.
 
